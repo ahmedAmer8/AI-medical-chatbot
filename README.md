@@ -11,7 +11,7 @@ AI-Doctor is an intelligent chatbot that allows users to upload medical images (
 
 ## 📷 Example
 
-![Chat Example](./demo.png)
+![Chat Example](D:\DATA SCIENCE\My-All-Projects\AI-Medical-chatbobt\demo.jpg)
 
 ---
 
