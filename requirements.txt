@@ -1,0 +1,5 @@
+requests
+dotenv
+pillow
+groq
+gradio
