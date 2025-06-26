@@ -5,13 +5,13 @@
 AI-Doctor is an intelligent chatbot that allows users to upload medical images (like skin conditions, scans, etc.) and ask health-related questions. It uses cutting-edge multimodal models (like LLaMA) via Groq API to interpret images and generate medically-relevant responses.
 
 ✅ Now available live on **Hugging Face Spaces**!  
-👉 [Try it Online](https://huggingface.co/spaces/your-username/ai-doctor-medical-chatbot)
+👉 [Try it Online](https://huggingface.co/spaces/Ahmed-Amer/ai-doctor-medical-chatbot)
 
 ---
 
 ## 📷 Example
 
-![Chat Example](./f9ebf018-f06f-42d7-9311-938de0097170.png)
+![Chat Example](./demo.png)
 
 ---
 
@@ -46,7 +46,6 @@ All models are queried via the [Groq OpenAI-compatible API](https://groq.com):
 ├── requirements.txt       # All Python dependencies
 ├── .env                   # For GROQ_API_KEY
 ├── README.md              # This documentation
-└── assets/                # Screenshots, banners, exports
 ```
 
 ---
@@ -56,7 +55,7 @@ All models are queried via the [Groq OpenAI-compatible API](https://groq.com):
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ai-doctor-chatbot.git
+git clone https://github.com/ahmedAmer8/ai-doctor-chatbot.git
 cd ai-doctor-chatbot
 ```
 
@@ -174,6 +173,6 @@ MIT License — open for academic and commercial use.
 
 ## 📬 Contact
 
-Email: your-email@example.com  
-GitHub: [@your-username](https://github.com/your-username)
+Email: ahmed.mohammad.amer@gmail.com  
+GitHub: [@Ahmed-Amer](https://github.com/ahmedAmer8)
 
