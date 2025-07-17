@@ -4,8 +4,7 @@
 
 AI-Doctor is an intelligent chatbot that allows users to upload medical images (like skin conditions, scans, etc.) and ask health-related questions. It uses cutting-edge multimodal models (like LLaMA) via Groq API to interpret images and generate medically-relevant responses.
 
-✅ Now available live on **Hugging Face Spaces**!  
-👉 [Try it Online](https://huggingface.co/spaces/Ahmed-Amer/ai-doctor-medical-chatbot)
+
 
 ---
 
